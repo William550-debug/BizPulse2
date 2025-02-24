@@ -1,0 +1,27 @@
+date,amount,category,description
+20-07-2025,125.5,Income,Salary
+24-02-2025,125.0,Income,
+24-02-2025,500.0,Income,
+24-02-2025,400.0,Expense,groceries
+24-02-2025,600.0,Income,bank dividends
+19-07-2024,3000.0,Income,Salary
+30-07-2024,1500.0,Expense,Capital
+20-07-2025,125.5,Income,Salary
+24-02-2025,125.0,Income,
+24-02-2025,500.0,Income,
+24-02-2025,400.0,Expense,groceries
+24-02-2025,600.0,Income,bank dividends
+19-07-2024,3000.0,Income,Salary
+30-07-2024,1500.0,Expense,Capital
+15-03-2024,200.0,Expense,Electricity bill
+10-04-2024,750.0,Income,Freelance
+18-05-2024,350.0,Expense,Rent
+05-06-2024,1200.0,Income,Stock profits
+22-06-2024,50.0,Expense,Transport
+09-08-2024,130.0,Expense,Restaurant
+14-09-2024,400.0,Income,
+02-10-2024,2000.0,Income,Project Payment
+16-11-2024,90.0,Expense,Internet Subscription
+07-12-2024,500.0,Expense,Medical Bills
+25-12-2024,800.0,Income,Christmas Bonus
+10-01-2025,650.0,Income,Consulting
